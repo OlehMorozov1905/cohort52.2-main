@@ -5,9 +5,9 @@
 - before each lesson, 10-15 minutes before it starts, the teacher posts a link to the Zoom conference in the channel
 
 - materials for each lesson will be present in the LMS (plan, theory, homework), Russian and English versions;
-
+fgbsg
 - **homework** should take from 30-40 minutes to 1.5 hours, provided that you work in class.
-  That is, you listen carefully to the teacher, ask questions, type the code,
+  That isgsdbbfbgs, you listen carefully to the teacher, ask questions, type the code,
   run the code together with the teacher, get an adequate result;
 
 - you come to the consultation with questions and a code project;

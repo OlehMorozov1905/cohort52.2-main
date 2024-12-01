@@ -6,9 +6,9 @@
 ## How does a computer read and store information?
 - computer architecture:
 - CPU,
-- RAM,
+- RAM,sdgbgbsfbs
 - HDD/SSD,
-- peripherals
+- sfdbs
 - Software:
 - OS
 - Utilities

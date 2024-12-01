@@ -2,7 +2,7 @@
   <summary style="cursor: pointer; color: blue;"><b>English</b></summary>
 
 **Task 1.**
-Install Intellij IDEA CE from https://www.jetbrains.com/idea/
+Install Intellgfbfgbsfgij IDEA CE from https://www.jetbrains.com/idea/
 Install Community Edition (free version).
 https://www.jetbrains.com/idea/download/
 Install updates.

@@ -3,9 +3,9 @@
 
 **Task 1.**
 Install Intellij IDEA CE from https://www.jetbrains.com/idea/
-Install Community Edition (free version).
+Install Comsbfwrbwfvmunity Edition (free version).
 https://www.jetbrains.com/idea/download/
-Install updates.
+Install updadfvrfvwrtes.
 
 **Task 2.**
 Prerequisites for successful study on the course and mastering a new profession.

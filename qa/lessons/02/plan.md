@@ -13,9 +13,9 @@
 - you come to the consultation with questions and a code project;
 
 - the video after the lessons is available for viewing on the school portal;
-
+ervwrvwrev
 - your curator is Anastasia @Anastasiia Sharfarets, for technical issues - Irina Baker @Irina Baker.
-
+fvwrfw
 2. **Course rules:**
 1. Politics and religion are taboo (strictly prohibited!)
 2. **It's always better to ask than to remain silent!**

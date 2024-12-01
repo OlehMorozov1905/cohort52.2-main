@@ -7,9 +7,9 @@
 - computer architecture:
 - CPU,
 - RAM,
-- HDD/SSD,
+- HDD/SSD,vaerere
 - peripherals
-- Software:
+- Software:reverveq
 - OS
 - Utilities
 - Application

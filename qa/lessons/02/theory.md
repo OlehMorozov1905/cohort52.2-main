@@ -6,10 +6,10 @@
 ## How does a computer read and store information?
 - computer architecture:
 - CPU,
-- RAM,
+- RAM,ilu
 - HDD/SSD,
 - peripherals
-- Software:
+- Software:iluiluli
 - OS
 - Utilities
 - Application

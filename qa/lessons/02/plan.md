@@ -15,11 +15,10 @@
 - the video after the lessons is available for viewing on the school portal;
 
 - your curator is Anastasia @Anastasiia Sharfarets, for technical issues - Irina Baker @Irina Baker.
-
+uiluil
 2. **Course rules:**
-1. Politics and religion are taboo (strictly prohibited!)
-2. **It's always better to ask than to remain silent!**
-3. Photo + First Name Last Name in Slack and Zoom
+1. Politics auiluiays better to ask than to remain silent!**
+3. Photo + Filuilrst Name Last Name in Slack and Zoom
 4. Come to the consultation with questions and "code backlogs"
 5. Send homework to the teacher's personal channel in Slack
 

@@ -9,9 +9,9 @@
 - RAM,
 - HDD/SSD,
 - peripherals
-- Software:
+- Software:df
 - OS
-- Utilities
+- Utilitiesbdfbsdf
 - Application
 
 ## Programming languages, program code, compiler (interpreter)

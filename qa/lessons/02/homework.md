@@ -5,10 +5,10 @@
 Install Intellij IDEA CE from https://www.jetbrains.com/idea/
 Install Community Edition (free version).
 https://www.jetbrains.com/idea/download/
-Install updates.
+Install updates.farba
 
 **Task 2.**
-Prerequisites for successful study on the course and mastering a new profession.
+Prerequisites ffdbfor successful study on the course and mastering a new profession.
 
 Provide stickers with Cyrillic on the keyboard.
 It is advisable to install a second monitor and a large (external) keyboard.

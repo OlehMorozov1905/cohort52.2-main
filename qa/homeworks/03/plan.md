@@ -6,12 +6,12 @@ jdtyuj<h3 style="text-align: center; padding-bottom: 14px">2024-02-02</h3>
 
 - materials for each lessoyjn will be present in the LMS (plan, theory, homework), Russian and English versions;
 
-- **homework** shoulfyufjfyd take from 30-40 minutes to 1.5 hours, provided that you work in class.
+- **homewogfh srtrk** shoulfyufjfyd take from 30-40 minutes to 1.5 hours, provided that you work in class.
   That is, you listen carefully to the teacher, ask questions, type the code,
-  run the code tojfygether with the teacher, get an adequate result;
+  run the code tortwjfygether with the teacher, get an adequate result;
 jfyj
-- you come to the consultation with questions and a code project;
-
+- you come to ttghe consultation with questions and a code project;
+wgwc
 - the video after the lessons is available for viewing on the school portal;
 
 - your curator is Anastasia @Anastasiia Sharfarets, for technical issues - Irina Baker @Irina Baker.

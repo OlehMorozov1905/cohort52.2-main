@@ -1,6 +1,0 @@
-rwt
-wr
-twr
-
-trg
-wrg

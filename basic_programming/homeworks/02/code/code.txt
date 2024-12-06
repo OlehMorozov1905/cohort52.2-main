@@ -1,4 +1,0 @@
-       nsadvabsdEASCasa
-
-       acs
-       c

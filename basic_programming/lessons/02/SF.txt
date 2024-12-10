@@ -2,3 +2,10 @@ reg
 grerq
 ge
 eqr
+sb
+g
+s
+sb
+b
+b
+er
